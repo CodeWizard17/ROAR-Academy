@@ -46,3 +46,4 @@ def colorfunc(label):
 radio.on_clicked(colorfunc)
 
 plt.show()
+
